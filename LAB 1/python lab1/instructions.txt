@@ -1,0 +1,5 @@
+LAB - 1 for Batch 1
+Please read instructions given in colab notebook. Once you finished upload in google classroom (turn in). 
+
+Who have not able to login google classroom through college account, please send solved (downloaded) .ipynb file to 
+212021007@iitdh.ac.in through mail.
